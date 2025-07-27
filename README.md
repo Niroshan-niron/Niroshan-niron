@@ -18,11 +18,16 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### 🚀 **AI & Machine Learning**  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-EE2C2C?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)  
-[![Keras](https://img.shields.io/badge/Keras-FF3C00?style=flat&logo=keras&logoColor=white)](https://keras.io/)  
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)  
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<h3>AI / ML</h3>
+<table>
+  <tr>
+    <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-EE2C2C?style=flat&logo=tensorflow&logoColor=white" width="60" height="60" alt="TensorFlow"></a></td>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" width="60" height="60" alt="PyTorch"></a></td>
+    <td><a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF3C00?style=flat&logo=keras&logoColor=white" width="60" height="60" alt="Keras"></a></td>
+    <td><a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" width="60" height="60" alt="OpenCV"></a></td>
+    <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="60" height="60" alt="Scikit-Learn"></a></td>
+  </tr>
+</table>
 
 ### 🔬 **Data Science & Analytics**  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
