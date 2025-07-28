@@ -24,7 +24,7 @@
     I'm a self-motivated and adaptable AI enthusiast, passionate about using cutting-edge technology to solve complex problems.
     I thrive on continuous learning and collaborating to build impactful, real-world solutions in the tech industry.
     <br>
-    I am currently seeking opportunities in **AI, Machine Learning, and Automation**.
+   
   </p>
 </div>
 
