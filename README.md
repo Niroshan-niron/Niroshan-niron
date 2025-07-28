@@ -63,7 +63,7 @@
   <img width="12" />
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  /></a>
   <img width="12" />
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo"  /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/></a>
   <img width="12" />
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="https://img.shields.io/badge/IBM_SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS"/></a>
 </p>
@@ -91,9 +91,9 @@
   <img width="12" />
   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  /></a>
   <img width="12" />
-  <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atmel/atmel-original.svg" height="40" alt="atmel logo"  /></a>
+  <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors" target="_blank"><img src="https://img.shields.io/badge/Atmel-28B463?style=for-the-badge&logo=microchip-technology&logoColor=white" alt="Atmel"/></a>
   <img width="12" />
-  <a href="https://www.intel.com/content/www/us/en/products/programmable/fpga.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Intel_FPGA_logo.svg" height="40" alt="fpga logo"  /></a>
+  <a href="https://www.intel.com/content/www/us/en/products/programmable/fpga.html" target="_blank"><img src="https://img.shields.io/badge/FPGA-1E90FF?style=for-the-badge&logo=intel&logoColor=white" alt="FPGA"/></a>
   <img width="12" />
   <a href="https://www.solidworks.com/" target="_blank"><img src="https://img.shields.io/badge/SOLIDWORKS-DA291C?style=for-the-badge&logo=solidworks&logoColor=white" alt="SOLIDWORKS"/></a>
   <img width="12" />
