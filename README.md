@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/niroshan-k" target="_blank">
+  <a href="https://www.linkedin.com/in/niroshan-k-148243237/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -133,3 +133,12 @@
 
 ---
 
+## 🐍 My Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/niroshan-k/niroshan-k/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=niroshan-k&style=flat-square&color=blueviolet" align="center" />
+</div>
