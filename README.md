@@ -133,12 +133,3 @@
 
 ---
 
-## 🐍 My Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/niroshan-k/niroshan-k/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=niroshan-k&style=flat-square&color=blueviolet" align="center" />
-</div>
