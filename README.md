@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h3 style="display: inline-block">📌 <i>Let's Connect!</i></h3>
+  <h3 style="display: inline-block">📌Let's Connect!</h3>
   <br>
   <a href="https://www.linkedin.com/in/niroshan-k-148243237/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" alt="LinkedIn"/>
