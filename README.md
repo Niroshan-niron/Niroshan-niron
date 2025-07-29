@@ -1,14 +1,31 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" style="border-radius:20px;"/>
+  </p>
 </div>
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Niroshan</h1></summary>
+    <summary><h2 style="display: inline-block">🎓B.E.T. (Hons) in Instrumentation and Automation</h2></summary>
+    <summary><h2 style="display: inline-block"> ⚙️ Hardware & Embedded Systems │ 🧠 AI & Data Science │ 🤖 Robotics │ 👁️ Computer Vision │ ☁️ IoT</h2></summary>
   </ul>
 </div>
 
 <div align="center">
+  <br>
+  <p>
+    <h3>
+    Passionate about solving complex problems and taking on new challenges.  
+    A firm believer in lifelong learning, with the ability to adapt and develop innovative solutions for real-world problems.  
+    <br>
+    </h3>
+  </p>
+</div>
+
+<div align="center">
+  <h3 style="display: inline-block">📌 <i>Let's Connect!</i></h3>
+  <br>
   <a href="https://www.linkedin.com/in/niroshan-k-148243237/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" alt="LinkedIn"/>
   </a>
@@ -18,15 +35,7 @@
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <p>
-    I'm a self-motivated and adaptable AI enthusiast, passionate about using cutting-edge technology to solve complex problems.
-    I thrive on continuous learning and collaborating to build impactful, real-world solutions in the tech industry.
-    <br>
-   
-  </p>
-</div>
+
 
 ---
 
