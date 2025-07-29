@@ -133,12 +133,11 @@
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niroshan-k&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Niroshan-niron&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niroshan-k&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Niroshan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroshan-k&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niroshan-niron&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Niroshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroshan-niron&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
-
